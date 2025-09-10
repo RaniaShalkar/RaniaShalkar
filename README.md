@@ -1,4 +1,4 @@
-# Hi, I'm Rania 👋
+ # Hi, I'm Rania 👋
 
 📍 Taraz | Student at JIHC  
 
@@ -17,7 +17,4 @@ Outside of coding:
 - Debugging & Problem-Solving  
 - UI/UX Best Practices  
 
-
-
-## Connect with Me
-[LinkedIn](https://www.linkedin.com/)  
+  
