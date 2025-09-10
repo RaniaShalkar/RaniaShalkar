@@ -1,6 +1,6 @@
-# Hi, I'm [ТВОЁ ИМЯ] 👋
+# Hi, I'm Rania 👋
 
-📍 [Твой город] | Student at [Твоё учебное заведение]  
+📍 Taraz | Student at JIHC  
 
 ## About Me
 Aspiring mobile developer focused on **Flutter** and **Dart**.  
